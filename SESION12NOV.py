@@ -45,6 +45,7 @@ menor =C[0]
 for elemento in range(len(C)):
     if C[elemento] < menor:
         menor = C[i]
-print(menor)
+print("el menor valor  de la matriz C es: ",menor)
+
 
 
